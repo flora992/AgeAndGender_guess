@@ -8,4 +8,5 @@
 - `python 3.7`
 - CUDA 10.0
 - cuDNN 7.4.2
-## All installed via `Anaconda 3`
+## 
+All installed via `Anaconda 3`
